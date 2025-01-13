@@ -31,3 +31,6 @@
 - Node.js 20+ https://git.randomserver.top/aiek/nodejs7/
 - Node.js 16 https://github.com/Alex313031/node16-win7
 - Node.js 18 https://github.com/Alex313031/node18-win7
+
+### <img src="http://www.pngall.com/wp-content/uploads/2016/06/Virus-Transparent.png" width="32"></img>&nbsp; Antivirus 
+- Microsoft Security Essentials https://www.microsoft.com/en-us/download/details.aspx?id=29942&lc=1033
