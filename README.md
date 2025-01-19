@@ -1,4 +1,4 @@
-<img src="http://pngimg.com/uploads/windows_logos/windows_logos_PNG37.png" width="64"></img>
+<img src="http://pngimg.com/uploads/windows_logos/windows_logos_PNG37.png" width="64"></img> <img src="https://fedoraproject.org/w/uploads/thumb/5/59/Nouveau_Fedora_logo.svg/2560px-Nouveau_Fedora_logo.svg.png" width="64"></img>
 ## Ciao 👋 . Sono uno a cui piace smanettare al PC, e magari scoprire come rendere programmi moderni compatibili con windows 7 :)
 
 ## Manuale di sopravvivenza per Windows 7 nel 2025
