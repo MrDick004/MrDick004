@@ -23,7 +23,7 @@
 - QT6 https://github.com/crystalidea/qt6windows7
 - Microsoft API libs https://github.com/Blaukovitch/API-MS-WIN_XP
 - Rufus https://github.com/Alex313031/rufus-win7
-- DXVK https://github.com/doitsujin/dxvk (Risolve qualche incompatibilità nei videogiochi) [Clicca qui per una guida](http://neonfloppy.sytes.net/blog/2021-03-01/)
+- DXVK https://github.com/doitsujin/dxvk (Risolve qualche incompatibilità nei videogiochi) [Esempio](http://neonfloppy.sytes.net/blog/2021-03-01/)
 - Visual Studio Code (Solo codice) https://github.com/Alex313031/vscode-win7
 - Visual Studio Code 1.89+ https://github.com/e3kskoy7wqk/vscode-for-windows-7/
 - Blender 3.0.0+ https://github.com/nalexandru/BlenderCompat/
