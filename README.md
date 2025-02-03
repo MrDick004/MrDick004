@@ -45,6 +45,19 @@
 ### <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficon-icons.com%2Ficons2%2F317%2FPNG%2F512%2Ffloppy-icon_34421.png&f=1&nofb=1&ipt=fcee551e4aa1f79ead0b7496f0e90c1f6c87bb2c6f5ae92ba415534bba2c5717&ipo=images" width="32"></img>&nbsp; Vecchie Versioni Software 
 - Old Version http://www.oldversion.com/
 
+### Resoconto Browser Web
+
+Nome                         | Versione                                                                        |  
+-----------------------------|---------------------------------------------------------------------------------|
+Firefox                      | [136.0a1](https://github.com/e3kskoy7wqk/Firefox-for-windows-7/releases)        |              
+R3dfox                       | [132.0rc](https://github.com/Eclipse-Community/r3dfox/releases)                 |         
+Chromium                     | [134](https://github.com/e3kskoy7wqk/Chromium-for-windows-7/releases)           |        
+Microsoft Edge               | 109  Attualmente nessun FIX efficace                                            |         
+Supermium                    | [126.0.6478.261 R7](https://github.com/win32ss/supermium/releases)              |    
+
+
+                     
+
 
 
 
