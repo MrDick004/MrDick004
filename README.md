@@ -1,5 +1,5 @@
 <img src="http://pngimg.com/uploads/windows_logos/windows_logos_PNG37.png" width="64"></img> <img src="https://fedoraproject.org/w/uploads/thumb/5/59/Nouveau_Fedora_logo.svg/2560px-Nouveau_Fedora_logo.svg.png" width="64"></img>
-## Ciao 👋 . Sono uno a cui piace smanettare al PC, e magari scoprire come rendere programmi moderni compatibili con windows 7 :)
+## Ciao  . Sono uno a cui piace smanettare al PC, e magari scoprire come rendere programmi moderni compatibili con windows 7 :)
 
 ## Manuale di sopravvivenza per Windows 7 nel 2025
 
@@ -49,9 +49,9 @@
 
 Nome                         | Versione                                                                        |  
 -----------------------------|---------------------------------------------------------------------------------|
-Firefox                      | [136.0a1](https://github.com/e3kskoy7wqk/Firefox-for-windows-7/releases)        |              
+Firefox                      | [137.0a1](https://github.com/e3kskoy7wqk/Firefox-for-windows-7/releases)        |              
 R3dfox                       | [132.0rc](https://github.com/Eclipse-Community/r3dfox/releases)                 |         
-Chromium                     | [134](https://github.com/e3kskoy7wqk/Chromium-for-windows-7/releases)           |        
+Chromium                     | [135](https://github.com/e3kskoy7wqk/Chromium-for-windows-7/releases)           |        
 Microsoft Edge               | 109  Attualmente nessun FIX efficace                                            |         
 Supermium                    | [126.0.6478.261 R7](https://github.com/win32ss/supermium/releases)              |    
 
