@@ -39,6 +39,7 @@
 
 ### <img src="https://purepng.com/public/uploads/large/purepng.com-joystickgamepadgame-controlhandheld-controllervideo-games-controllerjoystick-1701528353777vdrm3.png" width="32"></img>&nbsp; Giochi
 - Versioni Steam https://mega.nz/folder/GRlSCZwY#0qCL7SJkYllwkSr8RAZMYg
+- Link alternativo https://archive.org/details/steam-clients
 
 ### <img src="http://www.pngall.com/wp-content/uploads/2016/06/Virus-Transparent.png" width="32"></img>&nbsp; Antivirus 
 - Microsoft Security Essentials https://www.microsoft.com/en-us/download/details.aspx?id=29942&lc=1033
@@ -52,7 +53,7 @@
 Nome                         | Versione                                                                        |  
 -----------------------------|---------------------------------------------------------------------------------|
 Firefox                      | [137.0a1](https://github.com/e3kskoy7wqk/Firefox-for-windows-7/releases)        |              
-R3dfox                       | [132.0rc](https://github.com/Eclipse-Community/r3dfox/releases)                 |         
+R3dfox                       | [134.0.3](https://github.com/Eclipse-Community/r3dfox/releases)                 |         
 Chromium                     | [135.0.7019.1](https://github.com/e3kskoy7wqk/Chromium-for-windows-7/releases)  |        
 Microsoft Edge               | Attualmente nessun FIX efficace                                                 |         
 Supermium                    | [126.0.6478.261 R7](https://github.com/win32ss/supermium/releases)              |   
