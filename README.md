@@ -47,6 +47,7 @@
 
 ### <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficon-icons.com%2Ficons2%2F317%2FPNG%2F512%2Ffloppy-icon_34421.png&f=1&nofb=1&ipt=fcee551e4aa1f79ead0b7496f0e90c1f6c87bb2c6f5ae92ba415534bba2c5717&ipo=images" width="32"></img>&nbsp; Vecchie Versioni Software 
 - Old Version http://www.oldversion.com/
+- Retro System Revival https://retrosystemsrevival.blogspot.com/p/final-versions-of-working-software-on.html
 
 ### Resoconto Browser Web
 
