@@ -55,7 +55,7 @@ Nome                         | Versione                                         
 -----------------------------|---------------------------------------------------------------------------------|
 Firefox                      | [137.0a1](https://github.com/e3kskoy7wqk/Firefox-for-windows-7/releases)        |              
 R3dfox                       | [134.0.3](https://github.com/Eclipse-Community/r3dfox/releases)                 |         
-Chromium                     | [135.0.7028.0](https://github.com/e3kskoy7wqk/Chromium-for-windows-7/releases)  |        
+Chromium                     | [135.0.7038.0](https://github.com/e3kskoy7wqk/Chromium-for-windows-7/releases)  |        
 Microsoft Edge               | Attualmente nessun FIX efficace                                                 |         
 Supermium                    | [126.0.6478.261 R7](https://github.com/win32ss/supermium/releases)              |   
 Opera/Opera GX               | Attualmente nessun FIX efficace                                                 |
