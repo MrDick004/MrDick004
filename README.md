@@ -16,6 +16,7 @@
 - https://github.com/Alex313031/electron-win7
 - https://github.com/win32ss/supermium-electron
 - https://github.com/adeii/supermium-portable/releases/tag/E29
+- https://github.com/e3kskoy7wqk/Electron-for-windows-7
 
 ### <img src="http://www.pngall.com/wp-content/uploads/5/Linux-Logo-PNG-File.png" width="32"></img>&nbsp; Sviluppatori
 - Python 3.9+ https://github.com/adang1345/PythonWin7
