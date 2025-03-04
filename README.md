@@ -1,6 +1,8 @@
 <img src="http://pngimg.com/uploads/windows_logos/windows_logos_PNG37.png" width="64"></img> <img src="https://fedoraproject.org/w/uploads/thumb/5/59/Nouveau_Fedora_logo.svg/2560px-Nouveau_Fedora_logo.svg.png" width="64"></img>
 
-## Manuale di sopravvivenza per Windows 7 nel 2025
+## ITA: Manuale di sopravvivenza per Windows 7 nel 2025
+## ENG: Survival manual for Windows 7 in 2025
+## GER: Überlebenshilfe für Windows 7 im Jahr 2025
 
 ### <img src="https://github.com/Alex313031/Thorium/raw/refs/heads/main/logos/NEW/thorium.svg" width="32"></img>&nbsp; Chromium
 - https://github.com/e3kskoy7wqk/Chromium-for-windows-7
