@@ -58,7 +58,7 @@ Firefox                      | [138.0a1](https://github.com/e3kskoy7wqk/Firefox-
 R3dfox                       | [134.0.3](https://github.com/Eclipse-Community/r3dfox/releases)                 |         
 Chromium                     | [135.0.7048.1](https://github.com/e3kskoy7wqk/Chromium-for-windows-7/releases)  |        
 Microsoft Edge               | Attualmente nessun FIX efficace                                                 |         
-Supermium                    | [126.0.6478.261 R7](https://github.com/win32ss/supermium/releases)              |   
+Supermium                    | [132.0.6834.191 R0](https://github.com/win32ss/supermium/releases)              |   
 Opera/Opera GX               | Attualmente nessun FIX efficace                                                 |
 
 
