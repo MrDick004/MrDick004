@@ -56,8 +56,8 @@
 
 Nome                         | Versione                                                                        |  
 -----------------------------|---------------------------------------------------------------------------------|
-Firefox                      | [140.0a1](https://github.com/e3kskoy7wqk/Firefox-for-windows-7/releases)        |              
-R3dfox                       | [Beta v136.0.4](https://github.com/Eclipse-Community/r3dfox/releases)           |         
+Firefox                      | [141.0a1](https://github.com/e3kskoy7wqk/Firefox-for-windows-7/releases)        |              
+R3dfox                       | [v137.0.2](https://github.com/Eclipse-Community/r3dfox/releases)                |         
 Chromium                     | [138.0.7157.0](https://github.com/e3kskoy7wqk/Chromium-for-windows-7/releases)  |        
 Microsoft Edge               | Attualmente nessun FIX efficace                                                 |         
 Supermium                    | [132.0.6834.213 R2](https://github.com/win32ss/supermium/releases)              |   
