@@ -37,6 +37,9 @@
 ### <img src="https://static.vecteezy.com/system/resources/previews/017/395/384/original/youtube-music-icon-free-png.png" width="32"></img>&nbsp; Musica
 - YouTube Music https://github.com/MrDick004/Windows-7-Apps/releases/tag/YoutubeMusic
 
+### <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freepnglogos.com%2Fuploads%2Femail-logo-png-30.png&f=1&nofb=1&ipt=fed364f245149b80e3b435e8f2d895aa605005be4caca801ff3d0ff203180954" width="32"></img>&nbsp; Comunicazioni
+- Discord https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7/releases/tag/discord
+
 ### <img src="https://static.vecteezy.com/system/resources/previews/024/983/592/original/youtube-logo-transparent-free-png.png" width="32"></img>&nbsp; Video
 - FreeTube https://github.com/MrDick004/Windows-7-Apps/releases/tag/FreeTube
 
