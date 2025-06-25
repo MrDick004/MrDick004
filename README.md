@@ -59,11 +59,11 @@
 
 Nome                         | Versione                                                                        |  
 -----------------------------|---------------------------------------------------------------------------------|
-Firefox                      | [141.0a1](https://github.com/e3kskoy7wqk/Firefox-for-windows-7/releases)        |              
-R3dfox                       | [v139.0.4](https://github.com/Eclipse-Community/r3dfox/releases)                |         
-Chromium                     | [139.0.7238.0](https://github.com/e3kskoy7wqk/Chromium-for-windows-7/releases)  |        
+Firefox                      | [142.0a1](https://github.com/e3kskoy7wqk/Firefox-for-windows-7/releases)        |              
+R3dfox                       | [v139.0.4-2 for Vista+](https://github.com/Eclipse-Community/r3dfox/releases)   |         
+Chromium                     | [140.0.7259.0](https://github.com/e3kskoy7wqk/Chromium-for-windows-7/releases)  |        
 Microsoft Edge               | Attualmente nessun FIX efficace                                                 |         
-Supermium                    | [132.0.6834.213 R2](https://github.com/win32ss/supermium/releases)              |   
+Supermium                    | [132.0.6834.224 R4](https://github.com/win32ss/supermium/releases)              |   
 Opera/Opera GX               | Attualmente nessun FIX efficace                                                 |
 
 
