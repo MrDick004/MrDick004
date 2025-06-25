@@ -22,6 +22,7 @@
 
 ### <img src="http://www.pngall.com/wp-content/uploads/5/Linux-Logo-PNG-File.png" width="32"></img>&nbsp; Sviluppatori
 - Python 3.9+ https://github.com/adang1345/PythonWin7
+- WinPython https://github.com/winpython/winpython
 - QT6 https://github.com/crystalidea/qt6windows7
 - Microsoft API libs https://github.com/Blaukovitch/API-MS-WIN_XP
 - Rufus https://github.com/Alex313031/rufus-win7
