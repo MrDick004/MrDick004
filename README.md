@@ -45,8 +45,9 @@
 - FreeTube https://github.com/MrDick004/Windows-7-Apps/releases/tag/FreeTube
 
 ### <img src="https://purepng.com/public/uploads/large/purepng.com-joystickgamepadgame-controlhandheld-controllervideo-games-controllerjoystick-1701528353777vdrm3.png" width="32"></img>&nbsp; Giochi
-- Versioni Steam https://mega.nz/folder/GRlSCZwY#0qCL7SJkYllwkSr8RAZMYg
+- Versioni Steam https://mega.nz/folder/GRlSCZwY#0qCL7SJkYllwkSr8RAZMYg (Quelle windows 7 ufficiali al momento non più funzionanti, non si possono eseguire nuovi download)
 - Link alternativo https://archive.org/details/steam-clients
+- Legendary (Epic Games Launcher) https://github.com/derrod/legendary (Con l'aiuto di Python 3.9+)
 
 ### <img src="http://www.pngall.com/wp-content/uploads/2016/06/Virus-Transparent.png" width="32"></img>&nbsp; Antivirus 
 - Microsoft Security Essentials https://www.microsoft.com/en-us/download/details.aspx?id=29942&lc=1033
