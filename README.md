@@ -51,6 +51,7 @@
 - Versioni Steam https://mega.nz/folder/GRlSCZwY#0qCL7SJkYllwkSr8RAZMYg (Quelle windows 7 ufficiali al momento non più funzionanti, non si possono eseguire nuovi download)
 - Link alternativo https://archive.org/details/steam-clients
 - Legendary (Epic Games Launcher) https://github.com/derrod/legendary (Con l'aiuto di Python 3.9+)
+- Steam CMD (Alternativa a steam) https://developer.valvesoftware.com/wiki/SteamCMD#Windows (inserire -overrideminos al collegamento del file exe)
 
 ### <img src="http://www.pngall.com/wp-content/uploads/2016/06/Virus-Transparent.png" width="32"></img>&nbsp; Antivirus 
 - Microsoft Security Essentials https://www.microsoft.com/en-us/download/details.aspx?id=29942&lc=1033
