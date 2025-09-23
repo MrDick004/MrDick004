@@ -31,6 +31,7 @@
 - Visual Studio Code 1.89+ https://github.com/e3kskoy7wqk/vscode-for-windows-7/
 - Blender 3.0.0+ https://github.com/nalexandru/BlenderCompat/
 - ~~Extended Kernel~~ (🔴 Offline) http://www.dotexe.cf/extended/
+- Extended Kernel Alternativo https://web.archive.org/web/20241006001741/https://www.dotexe.cf/extended/
 - Node.js 20+ https://git.randomserver.top/aiek/nodejs7/
 - Node.js 16 https://github.com/Alex313031/node16-win7
 - Node.js 18 https://github.com/Alex313031/node18-win7
