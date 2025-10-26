@@ -5,20 +5,20 @@
 - GER: Überlebenshilfe für Windows 7 im Jahr 2025
 
 ### <img src="https://github.com/Alex313031/Thorium/raw/refs/heads/main/logos/NEW/thorium.svg" width="32"></img>&nbsp; Chromium
-- https://github.com/e3kskoy7wqk/Chromium-for-windows-7
-- https://github.com/win32ss/supermium
-- https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7
+- [e3kskoy7wqk/Chromium-for-windows-7](https://github.com/e3kskoy7wqk/Chromium-for-windows-7)
+- [win32ss/supermium](https://github.com/win32ss/supermium)
+- [Blaukovitch/GOOGLE_CHROME_Windows_7](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7)
 
 ### <img src="https://logodownload.org/wp-content/uploads/2019/11/firefox-logo-1.png" width="32"></img>&nbsp; Firefox
-- https://github.com/Eclipse-Community/r3dfox
-- https://github.com/e3kskoy7wqk/Firefox-for-windows-7
-- https://github.com/Blaukovitch/Mozilla_Firefox_Windows_7
+- [Eclipse-Community/r3dfox](https://github.com/Eclipse-Community/r3dfox)
+- [e3kskoy7wqk/Firefox-for-windows-7](https://github.com/e3kskoy7wqk/Firefox-for-windows-7)
+- [Blaukovitch/Mozilla_Firefox_Windows_7](https://github.com/Blaukovitch/Mozilla_Firefox_Windows_7)
 
 ### <img src="https://github.com/Alex313031/Thorium/raw/refs/heads/main/logos/STAGING/electron.svg" width="32"></img>&nbsp; Electron
-- https://github.com/Alex313031/electron-win7
-- https://github.com/win32ss/supermium-electron
-- https://github.com/adeii/supermium-portable/releases/tag/E29
-- https://github.com/e3kskoy7wqk/Electron-for-windows-7
+- [Alex313031/electron-win7](https://github.com/Alex313031/electron-win7)
+- [win32ss/supermium-electron](https://github.com/win32ss/supermium-electron)
+- [adeii/supermium-portable](https://github.com/adeii/supermium-portable/releases/tag/E29)
+- [e3kskoy7wqk/Electron-for-windows-7](https://github.com/e3kskoy7wqk/Electron-for-windows-7)
 
 ### <img src="http://www.pngall.com/wp-content/uploads/5/Linux-Logo-PNG-File.png" width="32"></img>&nbsp; Sviluppatori
 - [Python 3.9+](https://github.com/adang1345/PythonWin7)
