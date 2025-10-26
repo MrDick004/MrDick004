@@ -67,11 +67,11 @@
 
 Nome                         | Versione                                                                        |  
 -----------------------------|---------------------------------------------------------------------------------|
-Firefox                      | [146.0a1](https://github.com/e3kskoy7wqk/Firefox-for-windows-7/releases)        |              
-R3dfox                       | [v144.0.1 for Vista+](https://github.com/Eclipse-Community/r3dfox/releases/)     |         
-Chromium                     | [143.0.7446.1](https://github.com/e3kskoy7wqk/Chromium-for-windows-7/releases)  |        
+Firefox                      | ![](https://img.shields.io/github/v/release/e3kskoy7wqk/Firefox-for-windows-7)     |              
+R3dfox                       | ![](https://img.shields.io/github/v/release/Eclipse-Community/r3dfox)     |         
+Chromium                     | ![](https://img.shields.io/github/v/release/e3kskoy7wqk/Chromium-for-windows-7)  |        
 Microsoft Edge               | Attualmente nessun FIX efficace                                                 |         
-Supermium                    | [138.0.7260.260 R4](https://github.com/win32ss/supermium/releases)           |   
+Supermium                    | ![](https://img.shields.io/github/v/release/win32ss/supermium)           |   
 Opera/Opera GX               | Attualmente nessun FIX efficace                                                 |
 
 
