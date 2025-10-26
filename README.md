@@ -37,6 +37,9 @@
 - [Node.js 18](https://github.com/Alex313031/node18-win7)
 - [Mxe](https://github.com/jpsdr/mxe-Windows-7)
 
+### <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.hdqwalls.com%2Fdownload%2Fnvidia-brand-logo-2-2932x2932.jpg&f=1&nofb=1&ipt=d9da06e1cb409103dbc0c7c573abba68f5d0d4d7bb6edb69409813f361f432a1" width="32"></img>&nbsp; Driver Nvidia
+- [Driver Nvidia](https://icedrive.net/s/x3iRyTB1TVZX4NQaTxB6z13XZvSu)
+
 ### <img src="https://static.vecteezy.com/system/resources/previews/017/395/384/original/youtube-music-icon-free-png.png" width="32"></img>&nbsp; Musica
 - [YouTube Music](https://github.com/MrDick004/Windows-7-Apps/releases/tag/YoutubeMusic)
 
