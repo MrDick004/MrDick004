@@ -1,6 +1,6 @@
 <img src="http://pngimg.com/uploads/windows_logos/windows_logos_PNG37.png" width="64"></img> <img src="https://fedoraproject.org/w/uploads/thumb/5/59/Nouveau_Fedora_logo.svg/2560px-Nouveau_Fedora_logo.svg.png" width="64"></img> <img src="https://gameware.com/wp-content/uploads/2020/07/nintendo-ds-logo-png-6.png" width="64"></img>
 
-## ITA: Manuale di sopravvivenza per Windows 7 nel 2025
+## ITA: Manuale di sopravvivenza per Windows 7 nel 2025 ![](https://img.shields.io/badge/Windows_7-Forever-green)
 - ENG: Survival manual for Windows 7 in 2025 
 - GER: Überlebenshilfe für Windows 7 im Jahr 2025
 
