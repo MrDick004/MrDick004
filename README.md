@@ -1,5 +1,7 @@
 <img src="http://pngimg.com/uploads/windows_logos/windows_logos_PNG37.png" width="64"></img>
 
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+
 ## ITA: Manuale di sopravvivenza per Windows 7 nel 2025 ![](https://img.shields.io/badge/Windows_7-Forever-green)
 - ENG: Survival manual for Windows 7 in 2025 
 - GER: Überlebenshilfe für Windows 7 im Jahr 2025
@@ -70,12 +72,12 @@
 
 Nome                         | Versione                                                                        |  
 -----------------------------|---------------------------------------------------------------------------------|
-Firefox                      | ![](https://img.shields.io/github/v/release/e3kskoy7wqk/Firefox-for-windows-7)     |              
-R3dfox                       | ![](https://img.shields.io/github/v/release/Eclipse-Community/r3dfox)     |         
-Chromium                     | ![](https://img.shields.io/github/v/release/e3kskoy7wqk/Chromium-for-windows-7)  |        
-Microsoft Edge               | Attualmente nessun FIX efficace                                                 |         
-Supermium                    | ![](https://img.shields.io/github/v/release/win32ss/supermium)           |   
-Opera/Opera GX               | Attualmente nessun FIX efficace                                                 |
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)                                                  | ![](https://img.shields.io/github/v/release/e3kskoy7wqk/Firefox-for-windows-7)     |              
+[![Firefox](https://img.shields.io/badge/R3dfox-F76F53?logo=Firefox&logoColor=white)](#)                        | ![](https://img.shields.io/github/v/release/Eclipse-Community/r3dfox)     |         
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)                               | ![](https://img.shields.io/github/v/release/e3kskoy7wqk/Chromium-for-windows-7)  |        
+[![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white)](#)               | Attualmente nessun FIX efficace                                                 |         
+[![Supermium](https://img.shields.io/badge/Supermium-00B3E0?logo=GoogleChrome&logoColor=white)](#)                                   | ![](https://img.shields.io/github/v/release/win32ss/supermium)           |   
+[![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff)](#)                                                | Attualmente nessun FIX efficace                                                 |
 
 
                      
