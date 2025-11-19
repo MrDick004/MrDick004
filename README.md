@@ -1,6 +1,6 @@
-<img src="http://pngimg.com/uploads/windows_logos/windows_logos_PNG37.png" width="64"></img> [![Blogger](https://img.shields.io/badge/Blog%20Hipster%20Alcolico-%23FF5722.svg?logo=blogger&logoColor=white)](https://hipsteralcolico.altervista.org/)
+<img src="http://pngimg.com/uploads/windows_logos/windows_logos_PNG37.png" width="64"></img> [![Blogger](https://img.shields.io/badge/Blog%20Hipster%20Alcolico-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://hipsteralcolico.altervista.org/)
 
-## ITA: Manuale di sopravvivenza per Windows 7 nel 2025 ![](https://img.shields.io/badge/Windows_7-Forever-green)
+## ITA: Manuale di sopravvivenza per Windows 7 nel 2025 
 - ENG: Survival manual for Windows 7 in 2025 
 - GER: Überlebenshilfe für Windows 7 im Jahr 2025
 
