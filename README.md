@@ -1,6 +1,6 @@
 <img src="http://pngimg.com/uploads/windows_logos/windows_logos_PNG37.png" width="64"></img>
 
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows%207-0078D6?logo=windows11&logoColor=white)](#)
 
 ## ITA: Manuale di sopravvivenza per Windows 7 nel 2025 ![](https://img.shields.io/badge/Windows_7-Forever-green)
 - ENG: Survival manual for Windows 7 in 2025 
