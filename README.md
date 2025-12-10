@@ -58,6 +58,7 @@
 - [Legendary (Epic Games Launcher)](https://github.com/derrod/legendary) (Con l'aiuto di Python 3.9+)
 - [Steam CMD (Alternativa a steam)](https://developer.valvesoftware.com/wiki/SteamCMD#Windows) (inserire -overrideminos al collegamento del file exe)
 - [Heroic Games Launcher](https://github.com/adeii/supermium-portable/releases/tag/H218)
+- [Steam Beta](https://w7revived.chefkiss.dev/steam/)
 
 ### <img src="http://www.pngall.com/wp-content/uploads/2016/06/Virus-Transparent.png" width="32"></img>&nbsp; Antivirus 
 - [Microsoft Security Essentials](https://www.microsoft.com/en-us/download/details.aspx?id=29942&lc=1033)
