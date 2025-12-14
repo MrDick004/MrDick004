@@ -74,7 +74,7 @@ Nome                         | Versione                                         
 -----------------------------|---------------------------------------------------------------------------------|
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)                                                  | ![](https://img.shields.io/github/v/release/e3kskoy7wqk/Firefox-for-windows-7)     |              
 [![Firefox](https://img.shields.io/badge/R3dfox-F76F53?logo=Firefox&logoColor=white)](#)                        | ![](https://img.shields.io/github/v/release/Eclipse-Community/r3dfox)     |         
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)                               | ![](https://img.shields.io/github/v/release/e3kskoy7wqk/Chromium-for-windows-7)  |        
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)                               | ![](https://img.shields.io/github/v/release/e3kskoy7wqk/Chromium-for-windows-7-REWORK)  |        
 [![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white)](#)               | Attualmente nessun FIX efficace                                                 |         
 [![Supermium](https://img.shields.io/badge/Supermium-00B3E0?logo=GoogleChrome&logoColor=white)](#)                                   | ![](https://img.shields.io/github/v/release/win32ss/supermium)           |   
 [![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff)](#)                                                | Attualmente nessun FIX efficace                                                 |
