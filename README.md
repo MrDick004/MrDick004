@@ -1,8 +1,8 @@
 <img src="http://pngimg.com/uploads/windows_logos/windows_logos_PNG37.png" width="64"></img> [![Blogger](https://img.shields.io/badge/Blog%20Hipster%20Alcolico-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://hipsteralcolico.altervista.org/)
 
-## ITA: Manuale di sopravvivenza per Windows 7 nel 2025 
-- ENG: Survival manual for Windows 7 in 2025 
-- GER: Überlebenshilfe für Windows 7 im Jahr 2025
+## ITA: Manuale di sopravvivenza per Windows 7 nel 2026
+- ENG: Survival manual for Windows 7 in 2026 
+- GER: Überlebenshilfe für Windows 7 im Jahr 2026
 
 ### <img src="https://github.com/Alex313031/Thorium/raw/refs/heads/main/logos/NEW/thorium.svg" width="32"></img>&nbsp; Chromium
 - [e3kskoy7wqk/Chromium-for-windows-7](https://github.com/e3kskoy7wqk/Chromium-for-windows-7)
