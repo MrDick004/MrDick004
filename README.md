@@ -62,7 +62,7 @@
 - [Steam Beta](https://w7revived.chefkiss.dev/steam/)
 
 ### <img src="http://www.pngall.com/wp-content/uploads/2016/06/Virus-Transparent.png" width="32"></img>&nbsp; Antivirus 
-- [Microsoft Security Essentials](https://www.microsoft.com/en-us/download/details.aspx?id=29942&lc=1033)
+- [~~Microsoft Security Essentials~~ (🔴 Rimosso da Microsoft)](https://www.microsoft.com/en-us/download/details.aspx?id=29942&lc=1033)
 - [Link alternativo](https://github.com/MrDick004/Snippets/blob/main/WIN7/MSEInstall.exe)
 
 ### <img src="https://cdn.pixabay.com/photo/2020/05/01/18/49/floppy-disk-5118649_1280.png" width="32"></img>&nbsp; Vecchie Versioni Software 
