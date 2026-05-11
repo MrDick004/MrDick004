@@ -7,12 +7,12 @@
 ### <img src="https://github.com/Alex313031/Thorium/raw/refs/heads/main/logos/NEW/thorium.svg" width="32"></img>&nbsp; Chromium
 - [e3kskoy7wqk/Chromium-for-windows-7](https://github.com/e3kskoy7wqk/Chromium-for-windows-7)
 - [win32ss/supermium](https://github.com/win32ss/supermium)
-- [Blaukovitch/GOOGLE_CHROME_Windows_7](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7)
+- [~~Blaukovitch/GOOGLE_CHROME_Windows_7~~ (🔴 Rimosso)](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7) --> [Link Alternativo](https://web.archive.org/web/20260412123042/https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7)
 
 ### <img src="https://logodownload.org/wp-content/uploads/2019/11/firefox-logo-1.png" width="32"></img>&nbsp; Firefox
 - [Eclipse-Community/r3dfox](https://github.com/Eclipse-Community/r3dfox)
 - [e3kskoy7wqk/Firefox-for-windows-7](https://github.com/e3kskoy7wqk/Firefox-for-windows-7)
-- [Blaukovitch/Mozilla_Firefox_Windows_7](https://github.com/Blaukovitch/Mozilla_Firefox_Windows_7)
+- [~~Blaukovitch/Mozilla_Firefox_Windows_7~~ (🔴 Rimosso)](https://github.com/Blaukovitch/Mozilla_Firefox_Windows_7) --> [Link Alternativo](https://web.archive.org/web/20260312075551/https://github.com/Blaukovitch/Mozilla_Firefox_Windows_7)
 
 ### <img src="https://github.com/Alex313031/Thorium/raw/refs/heads/main/logos/STAGING/electron.svg" width="32"></img>&nbsp; Electron
 - [Alex313031/electron-win7](https://github.com/Alex313031/electron-win7)
@@ -24,13 +24,13 @@
 - [Python 3.9+](https://github.com/adang1345/PythonWin7)
 - [WinPython](https://github.com/winpython/winpython)
 - [QT6](https://github.com/crystalidea/qt6windows7)
-- [Microsoft API libs](https://github.com/Blaukovitch/API-MS-WIN_XP)
+- [~~Microsoft API Libs~~ (🔴 Rimosso)](https://github.com/Blaukovitch/API-MS-WIN_XP) --> [Link Alternativo](https://web.archive.org/web/20260211231905/https://github.com/Blaukovitch/API-MS-WIN_XP)
 - [Rufus](https://github.com/Alex313031/rufus-win7)
 - [DXVK](https://github.com/doitsujin/dxvk) (Risolve qualche incompatibilità nei videogiochi) [Esempio](http://neonfloppy.sytes.net/blog/2021-03-01/)
 - [Visual Studio Code (Solo codice)](https://github.com/Alex313031/vscode-win7)
 - [Visual Studio Code 1.89+](https://github.com/e3kskoy7wqk/vscode-for-windows-7/)
 - [Blender 3.0.0+](https://github.com/nalexandru/BlenderCompat/)
-- [~~Extended Kernel~~ (🔴 Offline)](http://www.dotexe.cf/extended/)
+- [~~Extended Kernel~~ (🔴 Non più disponibile)](http://www.dotexe.cf/extended/)
 - [Extended Kernel Alternativo](https://web.archive.org/web/20241006001741/https://www.dotexe.cf/extended/)
 - [Node.js 20+](https://git.randomserver.top/aiek/nodejs7/)
 - [Node.js 16](https://github.com/Alex313031/node16-win7)
