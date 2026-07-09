@@ -53,7 +53,7 @@
 - [MKVToolnix](https://github.com/jpsdr/MKVToolnix-Windows-7/releases)
 - [ffmpeg](https://forum.videohelp.com/threads/414767-ffmpeg-7-0-1-and-Windows-7/page2#post2771491)
 
-### <img src="https://purepng.com/public/uploads/large/purepng.com-joystickgamepadgame-controlhandheld-controllervideo-games-controllerjoystick-1701528353777vdrm3.png" width="32"></img>&nbsp; Giochi
+### <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fpng-vector%2F20250306%2Fourmid%2Fpngtree-gaming-joystick-icon-vector-logo-png-image_15736414.png&f=1&nofb=1&ipt=00a552a970c7e9302765ff9a50c9f257c30004559beb71fb2e1701144d277a78" width="32"></img>&nbsp; Giochi
 - [Versioni Steam](https://mega.nz/folder/GRlSCZwY#0qCL7SJkYllwkSr8RAZMYg) (Quelle windows 7 ufficiali al momento non più funzionanti, non si possono eseguire nuovi download)
 - [Link alternativo](https://archive.org/details/steam-clients)
 - [Legendary (Epic Games Launcher)](https://github.com/derrod/legendary) (Con l'aiuto di Python 3.9+)
@@ -62,8 +62,7 @@
 - [Steam Beta](https://w7revived.chefkiss.dev/steam/)
 
 ### <img src="http://www.pngall.com/wp-content/uploads/2016/06/Virus-Transparent.png" width="32"></img>&nbsp; Antivirus 
-- [~~Microsoft Security Essentials~~ (🔴 Rimosso da Microsoft)](https://www.microsoft.com/en-us/download/details.aspx?id=29942&lc=1033)
-- [Link alternativo](https://github.com/MrDick004/Snippets/blob/main/WIN7/MSEInstall.exe)
+- [~~Microsoft Security Essentials~~ (🔴 Rimosso da Microsoft)](https://www.microsoft.com/en-us/download/details.aspx?id=29942&lc=1033) --> [Link alternativo](https://github.com/MrDick004/Snippets/blob/main/WIN7/MSEInstall.exe)
 
 ### <img src="https://cdn.pixabay.com/photo/2020/05/01/18/49/floppy-disk-5118649_1280.png" width="32"></img>&nbsp; Vecchie Versioni Software 
 - [Old Version](http://www.oldversion.com/)
