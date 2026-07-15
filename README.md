@@ -51,7 +51,7 @@
 - [FreeTube](https://github.com/MrDick004/Windows-7-Apps/releases/tag/FreeTube)
 - [YT-DLP](https://github.com/nicolaasjan/yt-dlp/releases)
 - [MKVToolnix](https://github.com/jpsdr/MKVToolnix-Windows-7/releases)
-- [ffmpeg](https://forum.videohelp.com/threads/414767-ffmpeg-7-0-1-and-Windows-7/page2#post2771491)
+- [ffmpeg](https://forum.videohelp.com/threads/414767-ffmpeg-7-0-1-and-Windows-7/page3#post2781425)
 
 ### <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpng.pngtree.com%2Fpng-vector%2F20250306%2Fourmid%2Fpngtree-gaming-joystick-icon-vector-logo-png-image_15736414.png&f=1&nofb=1&ipt=00a552a970c7e9302765ff9a50c9f257c30004559beb71fb2e1701144d277a78" width="32"></img>&nbsp; Giochi
 - [Versioni Steam](https://mega.nz/folder/GRlSCZwY#0qCL7SJkYllwkSr8RAZMYg) (Quelle windows 7 ufficiali al momento non più funzionanti, non si possono eseguire nuovi download)
