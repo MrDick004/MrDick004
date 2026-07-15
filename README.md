@@ -13,6 +13,7 @@
 - [Eclipse-Community/r3dfox](https://github.com/Eclipse-Community/r3dfox)
 - [e3kskoy7wqk/Firefox-for-windows-7](https://github.com/e3kskoy7wqk/Firefox-for-windows-7)
 - [~~Blaukovitch/Mozilla_Firefox_Windows_7~~ (🔴 Rimosso)](https://github.com/Blaukovitch/Mozilla_Firefox_Windows_7) --> [Link Alternativo](https://web.archive.org/web/20260312075551/https://github.com/Blaukovitch/Mozilla_Firefox_Windows_7)
+- [MyPal](https://github.com/Feodor2/Mypal68)
 
 ### <img src="https://github.com/Alex313031/Thorium/raw/refs/heads/main/logos/STAGING/electron.svg" width="32"></img>&nbsp; Electron
 - [Alex313031/electron-win7](https://github.com/Alex313031/electron-win7)
@@ -71,12 +72,13 @@
 
 Nome                         | Versione                                                                        |  
 -----------------------------|---------------------------------------------------------------------------------|
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)                                                  | ![](https://img.shields.io/github/v/release/e3kskoy7wqk/Firefox-for-windows-7)     |              
-[![Firefox](https://img.shields.io/badge/R3dfox-F76F53?logo=Firefox&logoColor=white)](#)                        | ![](https://img.shields.io/github/v/release/Eclipse-Community/r3dfox)     |         
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)                               | ![](https://img.shields.io/github/v/release/e3kskoy7wqk/Chromium-for-windows-7-REWORK)  |        
-[![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white)](#)               | Attualmente nessun FIX efficace                                                 |         
-[![Supermium](https://img.shields.io/badge/Supermium-00B3E0?logo=GoogleChrome&logoColor=white)](#)                                   | ![](https://img.shields.io/github/v/release/win32ss/supermium)           |   
-[![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff)](#)                                                | Attualmente nessun FIX efficace                                                 |
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)                                            | ![](https://img.shields.io/github/v/release/e3kskoy7wqk/Firefox-for-windows-7)          |              
+[![Firefox](https://img.shields.io/badge/R3dfox-F76F53?logo=Firefox&logoColor=white)](#)                                             | ![](https://img.shields.io/github/v/release/Eclipse-Community/r3dfox)                   | 
+[![Firefox](https://img.shields.io/badge/MyPal-C84609?logo=Firefox&logoColor=white)](#)                                              | ![](https://img.shields.io/github/v/release/Feodor2/Mypal68)                            | 
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)                         | ![](https://img.shields.io/github/v/release/e3kskoy7wqk/Chromium-for-windows-7-REWORK)  |        
+[![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white)](#)         | Attualmente nessun FIX efficace                                                         |         
+[![Supermium](https://img.shields.io/badge/Supermium-00B3E0?logo=GoogleChrome&logoColor=white)](#)                                   | ![](https://img.shields.io/github/v/release/win32ss/supermium)                          |   
+[![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff)](#)                                          | Attualmente nessun FIX efficace                                                         |
 
 
                      
