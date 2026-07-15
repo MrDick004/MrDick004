@@ -1,4 +1,4 @@
-<img src="http://pngimg.com/uploads/windows_logos/windows_logos_PNG37.png" width="64"></img> [![Blogger](https://img.shields.io/badge/Blog%20Hipster%20Alcolico-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://hipsteralcolico.altervista.org/)
+<img src="http://pngimg.com/uploads/windows_logos/windows_logos_PNG37.png" width="64"></img> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F383262.png&f=1&nofb=1&ipt=d83e344e8da957f41fe3935ad490f865c05a6c934016177dafcbb1a3d256b3a2" width="64"></img> [![Blogger](https://img.shields.io/badge/Blog%20Hipster%20Alcolico-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://hipsteralcolico.altervista.org/)
 
 ## ITA: Manuale di sopravvivenza per Windows 7 nel 2026
 - ENG: Survival manual for Windows 7 in 2026 
