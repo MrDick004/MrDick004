@@ -6,12 +6,15 @@
 
 ### <img src="https://github.com/Alex313031/Thorium/raw/refs/heads/main/logos/NEW/thorium.svg" width="32"></img>&nbsp; Chromium
 - [e3kskoy7wqk/Chromium-for-windows-7](https://github.com/e3kskoy7wqk/Chromium-for-windows-7)
+- [e3kskoy7wqk/Chromium-for-windows-7-REWORK](https://github.com/e3kskoy7wqk/Chromium-for-windows-7-REWORK)
 - [win32ss/supermium](https://github.com/win32ss/supermium)
 - [~~Blaukovitch/GOOGLE_CHROME_Windows_7~~ (🔴 Rimosso)](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7) --> [Link Alternativo](https://web.archive.org/web/20260412123042/https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7)
 
 ### <img src="https://logodownload.org/wp-content/uploads/2019/11/firefox-logo-1.png" width="32"></img>&nbsp; Firefox
 - [Eclipse-Community/r3dfox](https://github.com/Eclipse-Community/r3dfox)
 - [e3kskoy7wqk/Firefox-for-windows-7](https://github.com/e3kskoy7wqk/Firefox-for-windows-7)
+- [e3kskoy7wqk/Firefox-for-windows-7-REWORK](https://github.com/e3kskoy7wqk/Firefox-for-windows-7-REWORK)
+- [Eclipse-Community/e3k-furry-fox](https://github.com/Eclipse-Community/e3k-furry-fox)
 - [~~Blaukovitch/Mozilla_Firefox_Windows_7~~ (🔴 Rimosso)](https://github.com/Blaukovitch/Mozilla_Firefox_Windows_7) --> [Link Alternativo](https://web.archive.org/web/20260312075551/https://github.com/Blaukovitch/Mozilla_Firefox_Windows_7)
 - [MyPal](https://github.com/Feodor2/Mypal68)
 
@@ -72,7 +75,7 @@
 
 Nome                         | Versione                                                                        |  
 -----------------------------|---------------------------------------------------------------------------------|
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)                                            | ![](https://img.shields.io/github/v/release/e3kskoy7wqk/Firefox-for-windows-7)          |              
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)                                            | ![](https://img.shields.io/github/v/release/e3kskoy7wqk/Firefox-for-windows-7-REWORK)   |              
 [![Firefox](https://img.shields.io/badge/R3dfox-F76F53?logo=Firefox&logoColor=white)](#)                                             | ![](https://img.shields.io/github/v/release/Eclipse-Community/r3dfox)                   | 
 [![Firefox](https://img.shields.io/badge/MyPal-C84609?logo=Firefox&logoColor=white)](#)                                              | ![](https://img.shields.io/github/v/release/Feodor2/Mypal68)                            | 
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)                         | ![](https://img.shields.io/github/v/release/e3kskoy7wqk/Chromium-for-windows-7-REWORK)  |        
