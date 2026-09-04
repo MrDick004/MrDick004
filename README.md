@@ -86,7 +86,7 @@ Nome                         | Versione                                         
 ----
 
 
---> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2016%2F07%2FOS-X-PNG-Image.png&f=1&nofb=1&ipt=113f2252cdab99795568034a7925edca0c67971719d1367b3acead5333c66fc" width="64"></img> [Guida Personale di Mac OS X Snow Leopard](https://github.com/MrDick004/MrDick004/blob/main/MacOSX.md)
+--> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2016%2F07%2FOS-X-PNG-Image.png&f=1&nofb=1&ipt=113f2252cdab99795568034a7925edca0c67971719d1367b3acead5333c66fc" width="64"></img> [Guida Personale di Mac OS 9/X](https://github.com/MrDick004/MrDick004/blob/main/MacOSX.md)
 
 
                      
