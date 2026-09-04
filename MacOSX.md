@@ -17,9 +17,9 @@
 
 Nome                         | Versione                                                                        |  
 -----------------------------|---------------------------------------------------------------------------------|
-[![Firefox](https://img.shields.io/badge/PowerFox-FF7139?logo=Firefox&logoColor=white)](#)                                           | ![](https://img.shields.io/github/v/release/Jazzzny/powerfox)          |  
+[![Firefox](https://img.shields.io/badge/PowerFox-e7434a?logo=Firefox&logoColor=white)](#)                                           | ![](https://img.shields.io/github/v/release/Jazzzny/powerfox)          |  
 [![Firefox](https://img.shields.io/badge/PowerFox%20Classic-FF7139?logo=Firefox&logoColor=white)](#)                                           | ![](https://img.shields.io/github/v/release/Jazzzny/powerfox-classic)          |  
-[![Firefox](https://img.shields.io/badge/Aquafox-FF7139?logo=Firefox&logoColor=white)](#)                                           | ![](https://img.shields.io/github/v/release/BlackBirdLC/Aquafox)          |  
+[![Firefox](https://img.shields.io/badge/Aquafox-009fe3?logo=Firefox&logoColor=white)](#)                                           | ![](https://img.shields.io/github/v/release/BlackBirdLC/Aquafox)          |  
 [![Firefox](https://img.shields.io/badge/InterWeb55-FF7139?logo=Firefox&logoColor=white)](#)                                           | ![](https://img.shields.io/github/v/release/Jazzzny/interweb55-snowleopard)          |
 [![Google Chrome](https://img.shields.io/badge/Chromium%20Legacy-4285F4?logo=GoogleChrome&logoColor=white)](#)                         | ![]()  |        
 
