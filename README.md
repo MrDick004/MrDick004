@@ -17,6 +17,7 @@
 - [Eclipse-Community/e3k-furry-fox](https://github.com/Eclipse-Community/e3k-furry-fox)
 - [~~Blaukovitch/Mozilla_Firefox_Windows_7~~ (🔴 Rimosso)](https://github.com/Blaukovitch/Mozilla_Firefox_Windows_7) --> [Link Alternativo](https://web.archive.org/web/20260312075551/https://github.com/Blaukovitch/Mozilla_Firefox_Windows_7)
 - [MyPal](https://github.com/Feodor2/Mypal68)
+- [Nocturne](https://github.com/ImSwordQueen/Nocturne)
 
 ### <img src="https://github.com/Alex313031/Thorium/raw/refs/heads/main/logos/STAGING/electron.svg" width="32"></img>&nbsp; Electron
 - [Alex313031/electron-win7](https://github.com/Alex313031/electron-win7)
