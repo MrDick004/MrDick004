@@ -2,6 +2,9 @@
 ## Manuale di sopravvivenza per Mac OS 9/X nel 2026
 
 
+### <img src="http://www.pngall.com/wp-content/uploads/5/Linux-Logo-PNG-File.png" width="32"></img>&nbsp; Sviluppatori
+- [MacPorts](https://www.macports.org/)
+
 ### <img src="https://github.com/Alex313031/Thorium/raw/refs/heads/main/logos/NEW/thorium.svg" width="32"></img>&nbsp; Chromium
 - [Attualmente vuoto]()
 
