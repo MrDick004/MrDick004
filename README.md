@@ -27,6 +27,7 @@
 
 ### <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvectorified.com%2Fimages%2Fwindows-7-file-explorer-icon-4.png&f=1&nofb=1&ipt=a565538144fefa7b91faf19f04a0328565d5495b7167b0f2a366eb3941bf8667" width="32"></img>&nbsp; File Explorer Addon
 - [JPEG XL .jxl](https://github.com/K4sum1/jxl-win7thumb)
+- [.nds](https://www.gamebrew.org/wiki/NDS_ExplorerEx)
 
 ### <img src="http://www.pngall.com/wp-content/uploads/5/Linux-Logo-PNG-File.png" width="32"></img>&nbsp; Sviluppatori
 - [Python 3.9+](https://github.com/adang1345/PythonWin7)
