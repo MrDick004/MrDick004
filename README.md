@@ -9,7 +9,7 @@
 - [e3kskoy7wqk/Chromium-for-windows-7-REWORK](https://github.com/e3kskoy7wqk/Chromium-for-windows-7-REWORK)
 - [win32ss/supermium](https://github.com/win32ss/supermium)
 - [~~Blaukovitch/GOOGLE_CHROME_Windows_7~~ (🔴 Rimosso)](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7) --> [Link Alternativo](https://web.archive.org/web/20260412123042/https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7)
-- [Chromium](https://github.com/mjd7989/Chromium-for-windows-2000) (Windows 2000+)
+- [mjd7989/Chromium-for-windows-2000](https://github.com/mjd7989/Chromium-for-windows-2000) (Windows 2000+)
 
 ### <img src="https://logodownload.org/wp-content/uploads/2019/11/firefox-logo-1.png" width="32"></img>&nbsp; Firefox
 - [Eclipse-Community/r3dfox](https://github.com/Eclipse-Community/r3dfox)
